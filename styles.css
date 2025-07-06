@@ -491,6 +491,8 @@ body {
     }
     
     .open-book-btn {
+         margin-bottom: -20px;
+         margin-left: 100px;
         padding: 8px 20px;
         font-size: 0.9rem;
     }
