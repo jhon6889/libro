@@ -54,7 +54,7 @@ body {
     overflow: hidden;
 }
 
-/* Añade un overlay oscuro para mejor legibilidad */
+
 .single-cover::before {
     content: '';
     position: absolute;
